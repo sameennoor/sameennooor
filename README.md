@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS student | Web Developer | AI Enthusiast | UI UX Designer<br>I love turning ideas into real-world projects and continuously improving my technical skills.
+CS student | Web Developer | AI Enthusiast | UI UX Designer | Certified Generative AI Application Developer<br>I love turning ideas into real-world projects and continuously improving my technical skills.
 
 
 ## 🌐 Socials:
